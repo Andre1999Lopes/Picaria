@@ -1,6 +1,9 @@
 # Picaria
 
 Jogo Picaria desenvolvido em C++ utilizando o framework Qt.
+Desenvolvedores:
+[André Júnior](https://github.com/Andre1999Lopes)
+[Bruna Gomes](https://github.com/BrunaGomes01)
 
 ## Programa
 
